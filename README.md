@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Souvik Das</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" 
 
 
 Email Me 👉 ✉️ dsouvik479@gmail.com For Collaboration/Project or Anything Else. 😊😊
